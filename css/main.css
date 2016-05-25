@@ -77,3 +77,11 @@ body{
 	padding: 5px;
 	box-sizing: content-box;
 }
+
+.license_code{
+	/*visibility: hidden;*/
+	text-transform: uppercase;
+	font-size: 25px;
+	color: darkblue;
+	font-weight: 700;
+}
